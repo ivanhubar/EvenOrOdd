@@ -1,0 +1,2 @@
+# EvenOrOdd
+JavaScript Codewars Exercise
